@@ -10,7 +10,7 @@ namespace TestConsoleApp
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("New line.");
             Console.WriteLine("Testing.... Press any key to exit...");
             Console.ReadKey();
         }
